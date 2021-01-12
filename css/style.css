@@ -116,6 +116,9 @@ main{
     .courses{
         height: 500px;
     }
+    main{
+        width: 534px;
+    }
 }
 @media (max-width: 480px) {
     .player-details{
@@ -134,6 +137,9 @@ main{
         height: 610px;
     }
     .courses{
-        height: 750px;
+        height: 700px;
+    }
+    main{
+        width: 420px;
     }
 }
